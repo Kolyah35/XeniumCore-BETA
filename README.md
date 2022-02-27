@@ -1,3 +1,3 @@
 # XeniumCore-BETA
-This is private server core for Geometry Dash 1.0. Not finished
+This is private server core for Geometry Dash 1.0. Not finished <br>
 GDPS Control Panel soon...
